@@ -1,0 +1,100 @@
+{
+    "asset" : {
+        "generator" : "Khronos glTF Blender I/O v3.2.40",
+        "version" : "2.0"
+    },
+    "scene" : 0,
+    "scenes" : [
+        {
+            "name" : "Scene",
+            "nodes" : [
+                0
+            ]
+        }
+    ],
+    "nodes" : [
+        {
+            "mesh" : 0,
+            "name" : "\u0426\u0438\u043b\u0438\u043d\u0434\u0440"
+        }
+    ],
+    "meshes" : [
+        {
+            "name" : "\u041c\u0435\u0448",
+            "primitives" : [
+                {
+                    "attributes" : {
+                        "POSITION" : 0,
+                        "NORMAL" : 1,
+                        "TEXCOORD_0" : 2
+                    },
+                    "indices" : 3
+                }
+            ]
+        }
+    ],
+    "accessors" : [
+        {
+            "bufferView" : 0,
+            "componentType" : 5126,
+            "count" : 376832,
+            "max" : [
+                2.4887046813964844,
+                1.0000001192092896,
+                1.754353642463684
+            ],
+            "min" : [
+                -2.5265917778015137,
+                -0.9986515641212463,
+                -1.7543535232543945
+            ],
+            "type" : "VEC3"
+        },
+        {
+            "bufferView" : 1,
+            "componentType" : 5126,
+            "count" : 376832,
+            "type" : "VEC3"
+        },
+        {
+            "bufferView" : 2,
+            "componentType" : 5126,
+            "count" : 376832,
+            "type" : "VEC2"
+        },
+        {
+            "bufferView" : 3,
+            "componentType" : 5125,
+            "count" : 565248,
+            "type" : "SCALAR"
+        }
+    ],
+    "bufferViews" : [
+        {
+            "buffer" : 0,
+            "byteLength" : 4521984,
+            "byteOffset" : 0
+        },
+        {
+            "buffer" : 0,
+            "byteLength" : 4521984,
+            "byteOffset" : 4521984
+        },
+        {
+            "buffer" : 0,
+            "byteLength" : 3014656,
+            "byteOffset" : 9043968
+        },
+        {
+            "buffer" : 0,
+            "byteLength" : 2260992,
+            "byteOffset" : 12058624
+        }
+    ],
+    "buffers" : [
+        {
+            "byteLength" : 14319616,
+            "uri" : "tipo_gladkkaya_krushka.bin"
+        }
+    ]
+}
